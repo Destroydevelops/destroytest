@@ -1,0 +1,2 @@
+# destroytest
+TEST
